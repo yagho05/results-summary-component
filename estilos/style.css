@@ -87,6 +87,10 @@ body p {
     text-align: left;
 }
 
+.reacao {
+    color: var(--vermelho-claro);
+}
+
 input {
     width: 100%;
 }
