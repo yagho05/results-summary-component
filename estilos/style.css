@@ -94,8 +94,8 @@ body p {
         hsla(241, 72%, 46%, 0)
     );
     border-radius: 50%;
-    width: 50%;
-    height: 50%;
+    width: 175px;
+    height: 175px;
     margin: auto;
 }
 
