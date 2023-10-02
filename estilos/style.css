@@ -183,8 +183,17 @@ input {
     height: 20%;
     width: 100%;
     border-radius: 40px;
+    border: none;
     background-color: var(--azul-cinza-escuro);
     color: var(--branco);
+    cursor: pointer;
+}
+
+input:hover {
+    background: linear-gradient(
+        hsl(252, 100%, 67%),
+        hsl(241, 81%, 54%)
+    );;
 }
 
 /* Footer */
